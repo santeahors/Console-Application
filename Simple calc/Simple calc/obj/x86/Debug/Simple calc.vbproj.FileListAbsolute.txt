@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\bin\Debug\Simple calc.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\bin\Debug\Simple calc.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\bin\Debug\Simple calc.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\obj\x86\Debug\Simple_calc.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\obj\x86\Debug\Simple calc.vbproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\obj\x86\Debug\Simple calc.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\obj\x86\Debug\Simple calc.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\Simple calc\Simple calc\obj\x86\Debug\Simple calc.pdb

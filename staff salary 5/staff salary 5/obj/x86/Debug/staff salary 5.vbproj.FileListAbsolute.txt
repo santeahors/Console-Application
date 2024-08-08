@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\bin\Debug\staff salary 5.exe
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\bin\Debug\staff salary 5.pdb
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\bin\Debug\staff salary 5.xml
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\obj\x86\Debug\staff_salary_5.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\obj\x86\Debug\staff salary 5.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\obj\x86\Debug\staff salary 5.exe
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\obj\x86\Debug\staff salary 5.xml
+c:\users\admin\documents\visual studio 2010\Projects\staff salary 5\staff salary 5\obj\x86\Debug\staff salary 5.pdb

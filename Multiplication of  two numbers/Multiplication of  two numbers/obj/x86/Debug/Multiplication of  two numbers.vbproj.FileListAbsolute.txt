@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\bin\Debug\Multiplication of  two numbers.exe
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\bin\Debug\Multiplication of  two numbers.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\bin\Debug\Multiplication of  two numbers.xml
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\obj\x86\Debug\Multiplication_of__two_numbers.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\obj\x86\Debug\Multiplication of  two numbers.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\obj\x86\Debug\Multiplication of  two numbers.exe
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\obj\x86\Debug\Multiplication of  two numbers.xml
+c:\users\admin\documents\visual studio 2010\Projects\Multiplication of  two numbers\Multiplication of  two numbers\obj\x86\Debug\Multiplication of  two numbers.pdb
