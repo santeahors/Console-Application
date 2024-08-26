@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\bin\Debug\Loop.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\obj\x86\Debug\Loop.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\obj\x86\Debug\LoopFactorial.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\obj\x86\Debug\Loop.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\obj\x86\Debug\Loop.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Loop\Loop\obj\x86\Debug\Loop.pdb

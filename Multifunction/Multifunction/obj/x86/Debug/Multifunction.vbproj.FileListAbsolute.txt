@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\obj\x86\Debug\Multifunction.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\obj\x86\Debug\Multifunction.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\bin\Debug\Multifunction.exe
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\bin\Debug\Multifunction.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\bin\Debug\Multifunction.xml
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\obj\x86\Debug\Multifunction.exe
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\obj\x86\Debug\Multifunction.xml
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction\Multifunction\obj\x86\Debug\Multifunction.pdb

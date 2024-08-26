@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\bin\Debug\Division.exe
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\bin\Debug\Division.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\bin\Debug\Division.xml
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\obj\x86\Debug\Division.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\obj\x86\Debug\Division.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\obj\x86\Debug\Division.exe
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\obj\x86\Debug\Division.xml
+c:\users\admin\documents\visual studio 2010\Projects\Division\Division\obj\x86\Debug\Division.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Division\Division\obj\x86\Debug\Division.Division.resources

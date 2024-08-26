@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\obj\x86\Debug\boyles_lawfix.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\obj\x86\Debug\boyles lawfix.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\bin\Debug\boyles lawfix.exe
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\bin\Debug\boyles lawfix.pdb
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\bin\Debug\boyles lawfix.xml
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\obj\x86\Debug\boyles lawfix.exe
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\obj\x86\Debug\boyles lawfix.xml
+c:\users\admin\documents\visual studio 2010\Projects\boyles lawfix\boyles lawfix\obj\x86\Debug\boyles lawfix.pdb

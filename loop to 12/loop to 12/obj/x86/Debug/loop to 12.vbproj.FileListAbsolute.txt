@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\bin\Debug\loop to 12.exe
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\bin\Debug\loop to 12.pdb
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\bin\Debug\loop to 12.xml
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\obj\x86\Debug\loop_to_12.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\obj\x86\Debug\loop to 12.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\obj\x86\Debug\loop to 12.exe
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\obj\x86\Debug\loop to 12.xml
+c:\users\admin\documents\visual studio 2010\Projects\loop to 12\loop to 12\obj\x86\Debug\loop to 12.pdb

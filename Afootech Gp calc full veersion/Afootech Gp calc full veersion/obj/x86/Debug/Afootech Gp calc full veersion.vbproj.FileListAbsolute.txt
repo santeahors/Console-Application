@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\bin\Debug\Afootech Gp calc full veersion.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\bin\Debug\Afootech Gp calc full veersion.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\bin\Debug\Afootech Gp calc full veersion.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\obj\x86\Debug\Afootech_Gp_calc_full_veersion.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\obj\x86\Debug\Afootech Gp calc full veersion.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\obj\x86\Debug\Afootech Gp calc full veersion.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\obj\x86\Debug\Afootech Gp calc full veersion.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Afootech Gp calc full veersion\Afootech Gp calc full veersion\obj\x86\Debug\Afootech Gp calc full veersion.pdb

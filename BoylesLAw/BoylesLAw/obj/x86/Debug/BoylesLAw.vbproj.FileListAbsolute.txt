@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\bin\Debug\BoylesLAw.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\bin\Debug\BoylesLAw.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\bin\Debug\BoylesLAw.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\obj\x86\Debug\BoylesLAw.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\obj\x86\Debug\BoylesLAw.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\obj\x86\Debug\BoylesLAw.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\obj\x86\Debug\BoylesLAw.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BoylesLAw\BoylesLAw\obj\x86\Debug\BoylesLAw.pdb
