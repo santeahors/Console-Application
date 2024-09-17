@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\bin\Debug\Multifunction_Windows.exe
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\bin\Debug\Multifunction_Windows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\bin\Debug\Multifunction_Windows.xml
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\obj\x86\Debug\Multifunction_Windows.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\obj\x86\Debug\Multifunction_Windows.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\obj\x86\Debug\Multifunction_Windows.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\obj\x86\Debug\Multifunction_Windows.exe
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\obj\x86\Debug\Multifunction_Windows.xml
+c:\users\admin\documents\visual studio 2010\Projects\Multifunction_Windows\Multifunction_Windows\obj\x86\Debug\Multifunction_Windows.pdb

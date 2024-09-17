@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\bin\Debug\NEWMULTIFUNCTION.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\bin\Debug\NEWMULTIFUNCTION.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\bin\Debug\NEWMULTIFUNCTION.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\obj\x86\Debug\NEWMULTIFUNCTION.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\obj\x86\Debug\NEWMULTIFUNCTION.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\obj\x86\Debug\NEWMULTIFUNCTION.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\obj\x86\Debug\NEWMULTIFUNCTION.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\obj\x86\Debug\NEWMULTIFUNCTION.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEWMULTIFUNCTION\NEWMULTIFUNCTION\obj\x86\Debug\NEWMULTIFUNCTION.pdb

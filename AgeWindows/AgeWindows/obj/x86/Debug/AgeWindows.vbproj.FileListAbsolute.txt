@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\bin\Debug\AgeWindows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\bin\Debug\AgeWindows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\bin\Debug\AgeWindows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\obj\x86\Debug\AgeWindows.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\obj\x86\Debug\AgeWindows.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\obj\x86\Debug\AgeWindows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\obj\x86\Debug\AgeWindows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AgeWindows\AgeWindows\obj\x86\Debug\AgeWindows.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\AgeWindows\AgeWindows\obj\x86\Debug\AgeWindows.Age.resources

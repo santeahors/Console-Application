@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\bin\Debug\Subtraction.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\bin\Debug\Subtraction.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\bin\Debug\Subtraction.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\obj\x86\Debug\Subtraction.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\obj\x86\Debug\Subtraction.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\obj\x86\Debug\Subtraction.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\obj\x86\Debug\Subtraction.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\obj\x86\Debug\Subtraction.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Subtraction\Subtraction\obj\x86\Debug\Subtraction.pdb

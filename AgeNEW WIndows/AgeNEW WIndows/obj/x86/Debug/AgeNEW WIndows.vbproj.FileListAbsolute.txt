@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\bin\Debug\AgeNEW WIndows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\bin\Debug\AgeNEW WIndows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\bin\Debug\AgeNEW WIndows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\obj\x86\Debug\AgeNEW_WIndows.AgeCalculator.resources
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\obj\x86\Debug\AgeNEW_WIndows.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\obj\x86\Debug\AgeNEW WIndows.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\obj\x86\Debug\AgeNEW WIndows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\obj\x86\Debug\AgeNEW WIndows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AgeNEW WIndows\AgeNEW WIndows\obj\x86\Debug\AgeNEW WIndows.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.AfoGpCalc.resources
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.pdb
