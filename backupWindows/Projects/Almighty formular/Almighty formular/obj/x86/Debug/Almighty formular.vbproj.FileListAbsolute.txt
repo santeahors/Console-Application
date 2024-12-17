@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\bin\Debug\Almighty formular.exe
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\bin\Debug\Almighty formular.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\bin\Debug\Almighty formular.xml
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\obj\x86\Debug\Almighty_formular.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\obj\x86\Debug\Almighty formular.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\obj\x86\Debug\Almighty formular.exe
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\obj\x86\Debug\Almighty formular.xml
+c:\users\admin\documents\visual studio 2010\Projects\Almighty formular\Almighty formular\obj\x86\Debug\Almighty formular.pdb

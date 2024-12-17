@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\bin\Debug\ConsoleSIMPLE calc 2.exe
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\bin\Debug\ConsoleSIMPLE calc 2.pdb
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\bin\Debug\ConsoleSIMPLE calc 2.xml
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\obj\x86\Debug\ConsoleSIMPLE_calc_2.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\obj\x86\Debug\ConsoleSIMPLE calc 2.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\obj\x86\Debug\ConsoleSIMPLE calc 2.exe
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\obj\x86\Debug\ConsoleSIMPLE calc 2.xml
+c:\users\admin\documents\visual studio 2010\Projects\ConsoleSIMPLE calc 2\ConsoleSIMPLE calc 2\obj\x86\Debug\ConsoleSIMPLE calc 2.pdb

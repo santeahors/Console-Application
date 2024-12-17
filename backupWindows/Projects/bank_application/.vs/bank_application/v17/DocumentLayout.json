@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\bank_application\\bank_application\\myfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\myfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myfunctions.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\myfunctions.vb",
+              "RelativeDocumentMoniker": "bank_application\\myfunctions.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\myfunctions.vb",
+              "RelativeToolTip": "bank_application\\myfunctions.vb",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAawAICAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T15:37:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\index.vb",
+              "RelativeDocumentMoniker": "bank_application\\index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\index.vb",
+              "RelativeToolTip": "bank_application\\index.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T15:37:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\index.vb",
+              "RelativeDocumentMoniker": "bank_application\\index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\bank_application\\bank_application\\index.vb [Design]",
+              "RelativeToolTip": "bank_application\\index.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T15:32:02.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

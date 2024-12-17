@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\auto_system_semako\\auto_system_2024\\functions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|solutionrelative:auto_system_2024\\functions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\auto_system_semako\\auto_system_2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|solutionrelative:auto_system_2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\auto_system_semako\\auto_system_2024\\recordsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|solutionrelative:auto_system_2024\\recordsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\auto_system_semako\\auto_system_2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|solutionrelative:auto_system_2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\auto_system_semako\\auto_system_2024\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|solutionrelative:auto_system_2024\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\auto_system_semako\\auto_system_2024\\recordsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D12143D-B476-4EF7-84BD-85D49D65F9DC}|auto_system_2024\\auto_system_2024.vbproj|solutionrelative:auto_system_2024\\recordsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordsForm.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\RecordsForm.vb",
+              "RelativeDocumentMoniker": "auto_system_2024\\RecordsForm.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\RecordsForm.vb*",
+              "RelativeToolTip": "auto_system_2024\\RecordsForm.vb*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:44:37.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\main.vb",
+              "RelativeDocumentMoniker": "auto_system_2024\\main.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\main.vb*",
+              "RelativeToolTip": "auto_system_2024\\main.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:16:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecordsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\RecordsForm.vb",
+              "RelativeDocumentMoniker": "auto_system_2024\\RecordsForm.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\RecordsForm.vb [Design]*",
+              "RelativeToolTip": "auto_system_2024\\RecordsForm.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:15:28.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\main.vb",
+              "RelativeDocumentMoniker": "auto_system_2024\\main.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\main.vb [Design]*",
+              "RelativeToolTip": "auto_system_2024\\main.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:15:27.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\index.vb",
+              "RelativeDocumentMoniker": "auto_system_2024\\index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\index.vb [Design]",
+              "RelativeToolTip": "auto_system_2024\\index.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:15:22.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "functions.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\functions.vb",
+              "RelativeDocumentMoniker": "auto_system_2024\\functions.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\auto_system_semako\\auto_system_2024\\functions.vb*",
+              "RelativeToolTip": "auto_system_2024\\functions.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:15:12.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

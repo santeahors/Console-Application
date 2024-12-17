@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\bin\Debug\nonononon.exe
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\bin\Debug\nonononon.pdb
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\bin\Debug\nonononon.xml
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\obj\x86\Debug\nonononon.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\obj\x86\Debug\nonononon.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\obj\x86\Debug\nonononon.exe
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\obj\x86\Debug\nonononon.xml
+c:\users\dell\documents\visual studio 2010\Projects\nonononon\nonononon\obj\x86\Debug\nonononon.pdb

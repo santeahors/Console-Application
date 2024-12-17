@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\Autosystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3E80A-315A-4263-80AB-97F58A9B9F21}|AutoSystem\\AutoSystem.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem\\autosystem\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E3E3E80A-315A-4263-80AB-97F58A9B9F21}|AutoSystem\\AutoSystem.vbproj|solutionrelative:autosystem\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E3E80A-315A-4263-80AB-97F58A9B9F21}|AutoSystem\\AutoSystem.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem\\autosystem\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E3E3E80A-315A-4263-80AB-97F58A9B9F21}|AutoSystem\\AutoSystem.vbproj|solutionrelative:autosystem\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\Autosystem\\AutoSystem\\Main.vb",
+              "RelativeDocumentMoniker": "AutoSystem\\Main.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\Autosystem\\AutoSystem\\Main.vb*",
+              "RelativeToolTip": "AutoSystem\\Main.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T01:17:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\Autosystem\\AutoSystem\\Main.vb",
+              "RelativeDocumentMoniker": "AutoSystem\\Main.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\Autosystem\\AutoSystem\\Main.vb [Design]*",
+              "RelativeToolTip": "AutoSystem\\Main.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T01:10:30.443Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

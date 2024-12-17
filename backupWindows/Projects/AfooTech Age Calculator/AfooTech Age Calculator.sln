@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AfooTech Age Calculator", "AfooTech Age Calculator\AfooTech Age Calculator.vbproj", "{F92D3171-6739-4BE5-954C-E0435B80F454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92D3171-6739-4BE5-954C-E0435B80F454}.Debug|x86.ActiveCfg = Debug|x86
+		{F92D3171-6739-4BE5-954C-E0435B80F454}.Debug|x86.Build.0 = Debug|x86
+		{F92D3171-6739-4BE5-954C-E0435B80F454}.Release|x86.ActiveCfg = Release|x86
+		{F92D3171-6739-4BE5-954C-E0435B80F454}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

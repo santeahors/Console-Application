@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\NEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586CE74E-A1EC-49B2-B792-11D68948F71A}|NEW\\NEW.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\new\\new\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{586CE74E-A1EC-49B2-B792-11D68948F71A}|NEW\\NEW.vbproj|solutionrelative:new\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\NEW\\NEW\\Module1.vb",
+              "RelativeDocumentMoniker": "NEW\\Module1.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\NEW\\NEW\\Module1.vb",
+              "RelativeToolTip": "NEW\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T16:33:14.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

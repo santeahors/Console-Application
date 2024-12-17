@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\obj\x86\Debug\Afootech_gp_with_Loop.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\obj\x86\Debug\Afootech gp with Loop.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\bin\Debug\Afootech gp with Loop.exe
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\bin\Debug\Afootech gp with Loop.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\bin\Debug\Afootech gp with Loop.xml
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\obj\x86\Debug\Afootech gp with Loop.exe
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\obj\x86\Debug\Afootech gp with Loop.xml
+c:\users\admin\documents\visual studio 2010\Projects\Afootech gp with Loop\Afootech gp with Loop\obj\x86\Debug\Afootech gp with Loop.pdb

@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\bank_application\\bank_application\\admin\\finish_reset_pass_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\finish_reset_pass_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\user\\userlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\user\\userlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\admin_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\admin_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\user\\userlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\user\\userlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\user\\user_reset_pass_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\user\\user_reset_pass_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\adminlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\adminlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\adminlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\adminlogin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\overlay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\overlay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\user\\user_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\user\\user_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\user\\loan_request_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\user\\loan_request_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\view_loan_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\view_loan_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\view_customer_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\view_customer_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\settlings_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\settlings_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\customer_reg_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\customer_reg_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\admin_reset_pass_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\admin_reset_pass_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\admin_reg_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\admin_reg_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\overlay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\overlay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\loan_schedule_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\loan_schedule_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\deposit_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\deposit_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\admin\\transaction_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\admin\\transaction_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\myfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{119B0CEC-6495-4CED-8B3E-0FFA15A15848}|bank_application\\bank_application.vbproj|solutionrelative:bank_application\\myfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin_dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_dashboard.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\admin_dashboard.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_dashboard.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\admin_dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:23.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\index.vb",
+              "RelativeDocumentMoniker": "bank_application\\index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\index.vb [Design]",
+              "RelativeToolTip": "bank_application\\index.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:05:15.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\index.vb",
+              "RelativeDocumentMoniker": "bank_application\\index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\index.vb",
+              "RelativeToolTip": "bank_application\\index.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:04:25.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\admin_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\admin_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:27.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userlogin_form.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\userlogin_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\User\\userlogin_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\userlogin_form.vb",
+              "RelativeToolTip": "bank_application\\User\\userlogin_form.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T06:40:42.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "finish_reset_pass_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\finish_reset_pass_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\finish_reset_pass_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\finish_reset_pass_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\finish_reset_pass_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:06:15.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userlogin_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\userlogin_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\User\\userlogin_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\userlogin_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\User\\userlogin_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:05:58.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user_reset_pass_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\user_reset_pass_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\User\\user_reset_pass_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\user_reset_pass_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\User\\user_reset_pass_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:05:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminlogin_form.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\adminlogin_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\adminlogin_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\adminlogin_form.vb",
+              "RelativeToolTip": "bank_application\\Admin\\adminlogin_form.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T06:40:05.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "overlay.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\overlay.vb",
+              "RelativeDocumentMoniker": "bank_application\\overlay.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\overlay.vb",
+              "RelativeToolTip": "bank_application\\overlay.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:25:08.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "adminlogin_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\adminlogin_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\adminlogin_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\adminlogin_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\adminlogin_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:33.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "user_dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\user_dashboard.vb",
+              "RelativeDocumentMoniker": "bank_application\\User\\user_dashboard.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\user_dashboard.vb [Design]",
+              "RelativeToolTip": "bank_application\\User\\user_dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:05:52.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "loan_request_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\loan_request_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\User\\loan_request_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\User\\loan_request_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\User\\loan_request_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:05:49.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "view_loan_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\view_loan_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\view_loan_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\view_loan_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\view_loan_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "view_customer_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\view_customer_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\view_customer_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\view_customer_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\view_customer_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:13.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "settlings_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\settlings_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\settlings_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\settlings_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\settlings_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:06:09.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "customer_reg_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\customer_reg_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\customer_reg_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\customer_reg_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\customer_reg_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T06:20:13.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin_reset_pass_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_reset_pass_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\admin_reset_pass_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_reset_pass_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\admin_reset_pass_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:30.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "admin_reg_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_reg_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\admin_reg_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\admin_reg_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\admin_reg_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:29.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "overlay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\overlay.vb",
+              "RelativeDocumentMoniker": "bank_application\\overlay.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\overlay.vb [Design]",
+              "RelativeToolTip": "bank_application\\overlay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:03:09.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "loan_schedule_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\loan_schedule_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\loan_schedule_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\loan_schedule_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\loan_schedule_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T05:58:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "deposit_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\deposit_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\deposit_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\deposit_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\deposit_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:06:13.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "transaction_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\transaction_form.vb",
+              "RelativeDocumentMoniker": "bank_application\\Admin\\transaction_form.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\Admin\\transaction_form.vb [Design]",
+              "RelativeToolTip": "bank_application\\Admin\\transaction_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:06:05.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "myfunctions.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\myfunctions.vb",
+              "RelativeDocumentMoniker": "bank_application\\myfunctions.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\bank_application\\bank_application\\myfunctions.vb",
+              "RelativeToolTip": "bank_application\\myfunctions.vb",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA4wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T21:03:36.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

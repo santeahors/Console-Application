@@ -1,0 +1,26 @@
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.exe
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.pdb
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.xml
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech_gp_Calc.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.exe
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.xml
+c:\users\admin\documents\visual studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech_gp_Calc.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.exe
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.xml
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.pdb
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.exe
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.pdb
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\bin\Debug\afootech gp Calc.xml
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech_gp_Calc.Resources.resources
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\backupWindows\Projects\afootech gp Calc\afootech gp Calc\obj\x86\Debug\afootech gp Calc.vbproj.CoreCompileInputs.cache

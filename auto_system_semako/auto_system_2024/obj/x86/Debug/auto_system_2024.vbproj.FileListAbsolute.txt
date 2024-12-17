@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\bin\Debug\auto_system_2024.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\bin\Debug\auto_system_2024.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\bin\Debug\auto_system_2024.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.index.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.main.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\bin\Debug\Guna.UI2.dll
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\bin\Debug\MySql.Data.DLL
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\auto_system_2024\auto_system_2024\obj\x86\Debug\auto_system_2024.RecordsForm.resources

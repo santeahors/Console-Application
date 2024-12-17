@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\bin\Debug\sum of two numbers.exe
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\bin\Debug\sum of two numbers.pdb
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\bin\Debug\sum of two numbers.xml
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\obj\x86\Debug\sum_of_two_numbers.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\obj\x86\Debug\sum of two numbers.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\obj\x86\Debug\sum of two numbers.exe
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\obj\x86\Debug\sum of two numbers.xml
+c:\users\admin\documents\visual studio 2010\Projects\sum of two numbers\sum of two numbers\obj\x86\Debug\sum of two numbers.pdb

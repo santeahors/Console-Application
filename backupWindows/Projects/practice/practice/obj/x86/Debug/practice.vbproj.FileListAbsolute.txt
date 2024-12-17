@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\bin\Debug\practice.exe
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\bin\Debug\practice.pdb
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\bin\Debug\practice.xml
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\obj\x86\Debug\practice.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\obj\x86\Debug\practice.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\obj\x86\Debug\practice.exe
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\obj\x86\Debug\practice.xml
+c:\users\dell\documents\visual studio 2010\Projects\practice\practice\obj\x86\Debug\practice.pdb

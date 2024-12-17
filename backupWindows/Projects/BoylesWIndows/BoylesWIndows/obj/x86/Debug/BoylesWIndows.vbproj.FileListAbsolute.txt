@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\bin\Debug\BoylesWIndows.exe
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\bin\Debug\BoylesWIndows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\bin\Debug\BoylesWIndows.xml
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\obj\x86\Debug\BoylesWIndows.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\obj\x86\Debug\BoylesWIndows.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\obj\x86\Debug\BoylesWIndows.exe
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\obj\x86\Debug\BoylesWIndows.xml
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\obj\x86\Debug\BoylesWIndows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BoylesWIndows\BoylesWIndows\obj\x86\Debug\BoylesWIndows.BoylesCalc.resources

@@ -1,0 +1,29 @@
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.pdb
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.AfoGpCalc.resources
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.exe
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.xml
+c:\users\admin\documents\visual studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.AfoGpCalc.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.exe
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\bin\Debug\AfooTech Gp Windows.xml
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.vbproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.AfoGpCalc.resources
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech_Gp_Windows.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.vbproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.exe
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.xml
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AfooTech Gp Windows\AfooTech Gp Windows\obj\x86\Debug\AfooTech Gp Windows.pdb

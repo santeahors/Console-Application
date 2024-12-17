@@ -1,0 +1,17 @@
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\bin\Debug\net6.0-windows\AutoSystem.exe
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\bin\Debug\net6.0-windows\AutoSystem.deps.json
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\bin\Debug\net6.0-windows\AutoSystem.runtimeconfig.json
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\bin\Debug\net6.0-windows\AutoSystem.dll
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\bin\Debug\net6.0-windows\AutoSystem.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.vbproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.AssemblyInfo.vb
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.dll
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\refint\AutoSystem.dll
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\AutoSystem.genruntimeconfig.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\AutoSystem\AutoSystem\obj\Debug\net6.0-windows\ref\AutoSystem.dll

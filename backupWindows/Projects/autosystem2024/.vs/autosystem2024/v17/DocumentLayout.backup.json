@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\recordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\recordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\recordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\recordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\function.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\function.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\autosystem2024\\autosystem2024\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2DCD7ED-EE9B-45A9-BDA3-5A5D6E24C2A5}|autosystem2024\\autosystem2024.vbproj|solutionrelative:autosystem2024\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recordform.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Recordform.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\Recordform.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Recordform.vb",
+              "RelativeToolTip": "autosystem2024\\Recordform.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:37:40.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recordform.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Recordform.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\Recordform.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Recordform.vb [Design]",
+              "RelativeToolTip": "autosystem2024\\Recordform.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T05:37:21.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "function.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\function.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\function.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\function.vb",
+              "RelativeToolTip": "autosystem2024\\function.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T11:19:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Main.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\Main.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Main.vb",
+              "RelativeToolTip": "autosystem2024\\Main.vb",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T01:29:13.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Index.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\Index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Index.vb",
+              "RelativeToolTip": "autosystem2024\\Index.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T01:20:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Main.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\Main.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Main.vb [Design]",
+              "RelativeToolTip": "autosystem2024\\Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T01:20:28.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Index.vb",
+              "RelativeDocumentMoniker": "autosystem2024\\Index.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\autosystem2024\\autosystem2024\\Index.vb [Design]",
+              "RelativeToolTip": "autosystem2024\\Index.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T01:18:30.666Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01DEE76C-7AB3-47AD-BDB5-7769372093D1}|ConsoleApplication1\\Comparisons of 3 number.vbproj|c:\\users\\dell\\documents\\visual studio 2022\\backupwindows\\projects\\consoleapplication1\\consoleapplication1\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{01DEE76C-7AB3-47AD-BDB5-7769372093D1}|ConsoleApplication1\\Comparisons of 3 number.vbproj|solutionrelative:consoleapplication1\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\ConsoleApplication1\\ConsoleApplication1\\Module1.vb",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Module1.vb",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Visual Studio 2022\\backupWindows\\Projects\\ConsoleApplication1\\ConsoleApplication1\\Module1.vb",
+              "RelativeToolTip": "ConsoleApplication1\\Module1.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T16:23:34.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

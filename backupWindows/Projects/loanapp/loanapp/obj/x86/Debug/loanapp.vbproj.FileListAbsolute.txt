@@ -1,0 +1,8 @@
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\bin\Debug\loanapp.exe
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\bin\Debug\loanapp.pdb
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\bin\Debug\loanapp.xml
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\obj\x86\Debug\loanapp.Resources.resources
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\obj\x86\Debug\loanapp.vbproj.GenerateResource.Cache
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\obj\x86\Debug\loanapp.exe
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\obj\x86\Debug\loanapp.xml
+c:\users\xisco\documents\visual studio 2010\Projects\loanapp\loanapp\obj\x86\Debug\loanapp.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\bin\Debug\comparison of 3 numb.exe
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\bin\Debug\comparison of 3 numb.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\bin\Debug\comparison of 3 numb.xml
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison of 3 numb.vbproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison_of_3_numb.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison of 3 numb.vbproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison of 3 numb.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison of 3 numb.exe
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison of 3 numb.xml
+C:\Users\DELL\Documents\Visual Studio 2022\backupWindows\Projects\comparison of 3 numb\comparison of 3 numb\obj\x86\Debug\comparison of 3 numb.pdb

@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\bin\Debug\reclassCalculator.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\bin\Debug\reclassCalculator.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\bin\Debug\reclassCalculator.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\obj\x86\Debug\reclassCalculator.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\obj\x86\Debug\reclassCalculator.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\obj\x86\Debug\reclassCalculator.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\obj\x86\Debug\reclassCalculator.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\reclassCalculator\reclassCalculator\obj\x86\Debug\reclassCalculator.pdb
